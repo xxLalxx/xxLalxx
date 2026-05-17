@@ -36,7 +36,7 @@ I'm a Lal a BTech fresher and trying to upskill myself.
 <img src="https://img.shields.io/badge/message-%40xxLalxx-1DA1F2?style=for-the-badge&logo=telegram&labelColor=000&color=3572A5#gh-light-mode-only" alt="Ask me anything">
 </a>
 <!-- Dark Mode -->
-<a href="https://t.me/xxLalxx#gh-dark-mode-only">
+<a href="https://www.instagram.com/i.am_lal/#gh-dark-mode-only">
 <img src="https://img.shields.io/badge/message-%40xxLalxx-1DA1F2?style=for-the-badge&logo=telegram&labelColor=000&color=FFF#gh-dark-mode-only" alt="Ask me anything">
 </a>
 &nbsp;
