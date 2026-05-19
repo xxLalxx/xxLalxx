@@ -1,0 +1,16 @@
+name: GitHub Readme Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Stats Images
+        uses: anuraghazra/github-readme-stats-action@v1
+        with:
+          username: xxLalxx
+          token: ${{ secrets.GITHUB_TOKEN }}
